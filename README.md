@@ -1,9 +1,6 @@
 ## Tech Stack
 
-
-Backend: [Laravel 8](https://laravel.com/docs/8.x/readme)
-
-Frontend: [VueJS v3](https://vuejs.org/)
+[Laravel 8](https://laravel.com/docs/8.x/readme)
 
 
 ## Getting Started
@@ -13,7 +10,7 @@ Frontend: [VueJS v3](https://vuejs.org/)
 
 Clone the repository:
 
-    git clone https://github.com/monettayy/github-users.git
+    git clone https://github.com/borromeowinabels/users_login.git
 
 Navigate to the directory and run:
 
@@ -51,4 +48,5 @@ In your terminal run:
 To login in the website, use this seeded credentials or register an account:
     
     username:  admin
-    password:   secret
+    email: admin@email.com
+    password:   secret123
